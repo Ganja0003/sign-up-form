@@ -14,7 +14,7 @@ This is a simple yet stylish sign-up form with a tropical theme background. Itâ€
 
 ## ðŸš€ Live Demo
 
-Check out the live version of this project here: [Live Demo]([https://your-deployment-link.com](https://sign-up-form-c0tr.onrender.com/?first-name=&email=&password=&last-name+id%3D=&number=&password=#))
+Check out the live version of this project here: [Live Demo](https://sign-up-form-c0tr.onrender.com/?first-name=&email=&password=&last-name+id%3D=&number=&password=#)
 
 ---
 
